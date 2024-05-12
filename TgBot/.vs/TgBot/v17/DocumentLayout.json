@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vados\\source\\repos\\TgBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EC7FA2-04EE-417A-805E-B6EC5F7C7FB5}|TgBot\\TgBot.csproj|c:\\users\\vados\\source\\repos\\tgbot\\tgbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EC7FA2-04EE-417A-805E-B6EC5F7C7FB5}|TgBot\\TgBot.csproj|solutionrelative:tgbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EC7FA2-04EE-417A-805E-B6EC5F7C7FB5}|TgBot\\TgBot.csproj|c:\\users\\vados\\source\\repos\\tgbot\\tgbot\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EC7FA2-04EE-417A-805E-B6EC5F7C7FB5}|TgBot\\TgBot.csproj|solutionrelative:tgbot\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vados\\source\\repos\\TgBot\\TgBot\\Class1.cs",
+              "RelativeDocumentMoniker": "TgBot\\Class1.cs",
+              "ToolTip": "C:\\Users\\vados\\source\\repos\\TgBot\\TgBot\\Class1.cs",
+              "RelativeToolTip": "TgBot\\Class1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:41:44.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vados\\source\\repos\\TgBot\\TgBot\\Program.cs",
+              "RelativeDocumentMoniker": "TgBot\\Program.cs",
+              "ToolTip": "C:\\Users\\vados\\source\\repos\\TgBot\\TgBot\\Program.cs",
+              "RelativeToolTip": "TgBot\\Program.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAkwIoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T10:40:12.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
